@@ -93,7 +93,7 @@ export default {
 body {
   text-align: center;
   font-family: "Press Start 2P", system-ui;
-  background-color:rgb(49, 7, 165);
+  background-color: rgb(89, 89, 184);
 }
 
 .amarillo {
@@ -109,7 +109,7 @@ body {
   margin: 0.5rem;
   margin-top: 60px;
   text-align: center;
-  border-color: red;
+  border-color: #dede1a;
   border-width: medium;
 }
 p{

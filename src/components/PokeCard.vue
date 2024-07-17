@@ -70,6 +70,6 @@ img {
 .oculta {
   height: 20rem;
   padding: 0.8rem;
-  background-color: brown;
+  background-color: rgb(109, 115, 179);
 }
 </style>
